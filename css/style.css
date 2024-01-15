@@ -8,3 +8,30 @@ body{
     background-color: #083b4c;
 
 }
+
+.container{
+    justify-content: center;
+    display: flex;
+
+}
+
+.row{
+    width: 150px;
+    text-align: center;
+}
+
+.fizzbuzz{
+    background-color: #f0466f;
+}
+
+.fizz{
+    background-color: #0cd6a1;
+}
+
+.buzz{
+    background-color: #ffd166;
+}
+
+.num{
+    background-color: #1389b2;
+}
